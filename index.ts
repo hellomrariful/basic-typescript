@@ -1,1 +1,2 @@
-let course = "next"
+let course : string = "next"
+console.log(course);
